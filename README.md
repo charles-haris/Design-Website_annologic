@@ -1,2 +1,2 @@
-##Web design for Annologic
+Web design for Annologic
 - simple one page website
